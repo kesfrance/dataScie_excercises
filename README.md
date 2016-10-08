@@ -1,2 +1,2 @@
-# dataScience_coursework
-Scripts and Notebooks I made from my data science courseworks.
+# ds_excercises
+Scripts and Notebooks of data science excercises
