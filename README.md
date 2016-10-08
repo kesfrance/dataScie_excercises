@@ -1,2 +1,2 @@
 # ds_excercises
-Scripts and Notebooks of data science excercises
+Scripts and notebooks I made working on various data science excercises.
