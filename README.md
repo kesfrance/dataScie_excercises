@@ -1,2 +1,2 @@
 # ds_excercises
-Scripts and notebooks I made working on various data science excercises.
+Pandas amd Numpy Scripts and notebooks I created working with Data.
